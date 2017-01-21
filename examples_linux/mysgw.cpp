@@ -29,6 +29,9 @@
 // How many clients should be able to connect to this gateway (default 1)
 #define MY_GATEWAY_MAX_CLIENTS 10
 
+// Enable inclusion mode
+#define MY_INCLUSION_MODE_FEATURE
+
 // Serial config
 // Enable this if you are using an Arduino connected to the USB
 //#define MY_LINUX_SERIAL_PORT "/dev/ttyACM0"
